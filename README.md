@@ -9,4 +9,4 @@ Please open [adskdschlng2019.ipynb](adskdschlng2019.ipynb) file for further inst
 You can find an intro to Google Colab [here](https://colab.research.google.com/notebooks/welcome.ipynb).
 Also, there are some good quick tips and examples for using Colab [here](https://rozbeh.github.io/colab_101.html).
 
-Alternatively, you can open the [html version](http://htmlpreview.github.io/?https://github.com/hoosha/adskdschlng2019/blob/master/adskdschlng2019.html) to just view it.
+Alternatively, you can open the [html version](http://htmlpreview.github.io/?https://github.com/hoosha/adskdschlng2019/blob/master/adskdschlng2019.html) or this [link](https://nbviewer.jupyter.org/github/hoosha/adskdschlng2019/blob/master/adskdschlng2019.ipynb) to just view it.
