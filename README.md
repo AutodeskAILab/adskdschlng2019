@@ -1,5 +1,4 @@
-# adskdschlng2019
-Autodesk AILab QMUL Data Science Challenge 2019
+# Autodesk AILab QMUL Data Science Challenge 2019
 
 Autodesk AI Lab challenge entails analysing a couple of datasets of 3D shapes, represented as triangle meshes and then providing the designer insights about the style of the a shape by visualising similarities between different regions of the shapes. You will be provided with open source datasets, python packages for reading and visualising the meshes and some helper code to kick-start with. Experience with Python and Jupyter notebook is very helpful in this challenge.
 
